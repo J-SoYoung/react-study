@@ -1,4 +1,4 @@
-# 배운 것을 react에 접해보며 공부합니다
+# 배운 것을 react에 적용해보며 공부합니다
 
 - 비동기통신, useEffect
 - 스타일 : styled-component
