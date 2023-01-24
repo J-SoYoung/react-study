@@ -14,11 +14,10 @@ notion : https://www.notion.so/fun-blog/get-9fda019466334a9d909a5613f3743911
   콘솔에 찍어보지 않았으면 나도 모르는 get요청을 무한으로 하고 있었을지도….
   그래서 useEffect의 의존성 배열을 [ ] 빈 값으로 두고, 처음 렌더링 되었을 때만 get요청을 하도록 코드를 구성했다.
 
-  ### axios든 , fetch든 서버에 요청을 하고 나면 promise가 반환된다.
-- useState에 저장
-- 미들웨어 + 리듀서 ⇒ redux 저장
+### axios든 , fetch든 서버에 요청을 하고 나면 promise가 반환된다.
+- useState에 저장 / 미들웨어 + 리듀서 ⇒ redux 저장
 - useState도 미들웨어를 거쳐 리듀서에 저장한 데이터도, 전부
   **[ ] 배열 안에 넣어서 데이터를 사용했다. ⇒ 데이터 형태와 관련이 있음.**
 - 이터러블(배열을 포함한 순회,반복이 가능한 객) 찾아서 공부하기.
-  _딥다이브 비동기통신 notion 추가 정리하기
+  _딥다이브 비동기통신 notion 추가 정리하기<br>
   [https://www.notion.so/fun-blog/553d932fa2db4a2485c9077c5b313bb4](https://www.notion.so/553d932fa2db4a2485c9077c5b313bb4)_
