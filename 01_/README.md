@@ -20,4 +20,4 @@ notion : https://www.notion.so/fun-blog/get-9fda019466334a9d909a5613f3743911
   **[ ] 배열 안에 넣어서 데이터를 사용했다. ⇒ 데이터 형태와 관련이 있음.**
 - 이터러블(배열을 포함한 순회,반복이 가능한 객) 찾아서 공부하기.
   _딥다이브 비동기통신 notion 추가 정리하기<br>
-  [https://www.notion.so/fun-blog/553d932fa2db4a2485c9077c5b313bb4](https://www.notion.so/553d932fa2db4a2485c9077c5b313bb4)_
+  [https://www.notion.so/fun-blog/553d932fa2db4a2485c9077c5b313bb4](https://www.notion.so/553d932fa2db4a2485c9077c5b313bb4)
