@@ -34,5 +34,5 @@ export const PostList = () => {
 };
 
 const PostsBox = styled.div`
-  border-bottom: 1px solid ${({ theme }) => theme.colors.orange}; ;
+  border-bottom: 1px solid ${({ theme }) => theme.colors.orange};
 `;
