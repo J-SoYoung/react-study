@@ -5,17 +5,20 @@ import { animation } from 'polished';
 
 import Button from "../components/Button";
 import { saveItem } from "../service/storage";
+import { connect } from "react-redux";
 
 export const Mainpage = () => {
+  const handleMoveTo = () =>{
+    connect()
+    navigate("/todos");
+    saveItem("tabKeyword", "todos");
+  }
   const navigate = useNavigate();
   return (
     <div>
       <h1>Mainpage</h1>
       <h3
-        onClick={() => {
-          navigate("/todos");
-          saveItem("tabKeyword", "todos");
-        }}
+        onClick={handleMoveTo}
       >
         들어가기
       </h3>
