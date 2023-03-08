@@ -1,0 +1,40 @@
+{
+  created_at: "2020-05-27T16:05:32.000Z",
+title: "Guerrilla Public Service Redux (2017)",
+url: "https://99percentinvisible.org/episode/guerrilla-public-service/",
+author: "DerWOK",
+points: 421,
+story_text: null,
+comment_text: null,
+num_comments: 110,
+story_id: null,
+story_title: null,
+story_url: null,
+parent_id: null,
+created_at_i: 1590595532,
+_tags: [
+"story",
+"author_DerWOK",
+"story_23325319"
+],
+objectID: "23325319",
+_highlightResult: {
+title: {
+value: "Guerrilla Public Service <em>Redux</em> (2017)",
+matchLevel: "full",
+fullyHighlighted: false,
+matchedWords: [
+"redux"
+]
+},
+url: {
+value: "https://99percentinvisible.org/episode/guerrilla-public-service/",
+matchLevel: "none",
+matchedWords: [ ]
+},
+author: {
+value: "DerWOK",
+matchLevel: "none",
+matchedWords: [ ]
+}
+}
