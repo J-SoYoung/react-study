@@ -2,7 +2,7 @@ import axios from "axios";
 
 export const getPostsData = async () => {
   const res = await axios.get(`https://koreanjson.com/posts`);
-  console.log(res);
+  // console.log(res);
   return res;
 };
 
@@ -11,8 +11,11 @@ export const api = axios.create({
 });
 
 export const getInfinitePostsData = async (pageParam = 1, options = {}) => {
-  const res = await axios.get(`https://jsonplaceholder.typicode.com/posts?_page=${pageParam}`, options);
-  console.log(res);
+  const res = await axios.get(
+    `https://jsonplaceholder.typicode.com/posts?_page=${pageParam}`,
+    options
+  );
+  // console.log(res);
   return res;
 };
 
